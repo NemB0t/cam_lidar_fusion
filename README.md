@@ -1,3 +1,5 @@
+This repo is the code developed for camera lidar fusion by Adwaith Kallungal Vrundavanan for FS-AI 2024 UK
+
 # Camera Lidar Fusion
 This guide provides an overview of the camera and LiDAR fusion process used in our Formula Student car's perception system. By combining data from both sensors, we gain a more robust and detailed understanding of the surrounding environment, crucial for cone detection.
 ## Fusion Process
